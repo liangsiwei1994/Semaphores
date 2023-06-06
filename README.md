@@ -51,7 +51,7 @@ All you need is a compiler that is able to compile c++ program. :)
    ```js
    make
    ```
-8. In the same path, run the program using
+7. In the same path, run the program using
    ```js
    ./main <queue size> <# of jobs produced per producer> <# of producers> <# of consumers>
    ```
